@@ -96,3 +96,91 @@ Apresentador: Rony Vainzof
     - Prevenção de vazamento de dados
     - Prevenção de desinformações (deepfakes)
     - Prevenção de violação de propriedade intelectual 
+    - Preocupação com a qualidade do conteudo gerado
+    - Preservação da continuiade de negocios
+
+Principios da IA
+- Transparencia
+- Explicabilidade
+- Diversidade Cognitiva
+- Supervisão humana
+- Avaliação do impactos
+- Robustez
+- Segurança da informação
+
+A ética influencia nas decisões da IA para que seja viabilizada as aplicações nos valores humanos
+- Da concepção e da implementação e uso da IA 
+
+A etica na inteligencia artificial e essenciual para promover a confiança da sociedade na adoção dessas tecnologias, garantindo que sejam desenvolivdas e utilizadas de maneira responsavel, justa e transparente, segura e inclusiva, mitigando riscos e tornando o ambiente cada vez mais saudavel
+
+Encerramento do Video
+
+Pilares da IA responsavel - Respeito 
+- Desenvolver sistemas que respeitem direitos e garantias individuais a sociedade
+- Preocuações eticas
+- Revisão humana na supervisão de sistemas de IA de acordo com o seu risco, e como diminuir as chances de que algoritimos perpetuem vieses ilicitos
+- Desafios etivos na tomada de decisões automatizadas e a improtancia de governança e politicas para promover a IA de forma responsavel
+
+Aula 04 - Pilares da IA responsavel: respeito
+
+Apresentador: Rony Vainzof
+
+- Não prejudique as escolhas individuais das pessoas
+- Respeito á liberdade de escolhas
+- Evitando coagir as decisões
+- Beneficios dos sistemas de IA
+- Resultados claros e transparentes
+- Autonomia individual
+- Recomendações personalizadas com base nas preferecnias dos usuarios
+- Assistentes virtuais e ChatBOOTS devem respeitar a autonomia dos usuarios
+- Desenvolver assistencia e tomar decisões em seu nome, deve envolver a autorização do usuario, que devem revisar e confirmar as propostas feitas pelo assistente, com opção de recusa ou modificação 
+- Transparencia de como os dados são usados
+- Gerenciamento de riscos
+- Incorporar as questões eticas ja mensionadas (concepção e complementação)
+- Transparencia, justiça e respeito pelos direitos humanos
+- Validação e teste rigorosos
+- Teste de sensibilidade de dados de surpervisionados
+- Supervisão humana
+- Determinadas etapas
+- Casos criticos 
+- Interpretablidade e explicabilidade
+- Monitoramento continuo
+- Desempenho e impacto nos sistemas de inteligencia artificial
+- Tranparencia e prestação de contas
+- Mecanismos eficazes para prestação de contas
+
+Papel na revisão humana dessas IA'S
+    - validas decisões
+    - Identificar vieses
+    - Interpretar Resultados
+    - Gerenciar exceções
+    - Revisar aspectos eticos e legais
+    - Contribuir para a melhoria continua dos sistemas
+
+Resumno: Crucial para ter a transparecnia, etica e eficasia das decisões tomadas pela inteligencia artificial
+
+Mitigando riscos de vieses nois algoritimos de IA
+- Utilizar dados diversos e representativos
+- Analisar e corrigir vises nos dados e nos algoritmos 
+- Tomar os algoriutimos transparenste e explicaveis 
+- Implementar avaliação continua para monitorar e mitigar vieses
+- Incorporar a expertise humana no processo de desenvolvimento. com diversidade cognitiva
+- Dados de treinamentos 
+
+Quais são os desafios eticos associados as tomadas de decisões automatizadas de sistemas de IA e como podemos minimizar o impacto negativo sobre grupos historicamente marginalizados?
+
+- Representatividade diversificada
+- Supervisão humana na revisão
+- Diversidade cognitiva
+
+
+Regulamentação etica de IA
+- Estabelecer diretrizes claras e eticas
+- Realizar avaliações de impactos antes da implementação 
+- Exigir transparencia e prestação de contas
+- Promover a diversidade e inclusão
+- Criar mecanismos de monitoramento e fiscalização
+- Investimento em conscientização sobre a etica na IA
+
+
+
