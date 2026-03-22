@@ -1,0 +1,66 @@
+Inicio dos estudos do primeiro curso autoinstrucional do SENAI: Ética na Inteligencia Artificial
+
+"Olá! Boas-vindas ao curso Ética na IA! 🌟
+
+Prepare-se para mergulhar em uma jornada de 4 horas que irá transformar sua perspectiva sobre a Inteligência Artificial.
+
+Neste curso, não apenas vamos explorar os impactos sociais da IA, mas também capacitaremos você a identificar os desafios e as oportunidades futuras na área, considerando os pilares do uso responsável da IA."
+
+Boas vindas:
+- Oportunidade para o progesso e a competitividade
+- Viabilizar soluções
+- Riscos
+
+Oque e a inteligencia artificial e qual e a sua importancia?
+    - Permite que maquinas realizem tarefas inteligentes, diferenciando-se pela capacidade de processar dados extensos e aprender padrões  complexos
+
+Video instruncional: Aula 01 - O que é a inteligencia artificial?
+
+Apresentador: Rony Vainsof
+
+A intelidencia altificial e uma maquina que execulta tarefas que normalmente requerem inteligencia humana.
+Se diferencia da inteligencia humana pela sua condição de processar grandes quantidade de dados e aprender padrões complexos de forma rapida e eficiente.
+- Tecnologia condicionante para a competitividade de nações e empresas
+- Revolução do aprendizado de maquina
+- Disponibilidade de dados
+- IA generativa
+- Grandes desafios da humanidade (contribuira)
+- Avanços cientificos
+- Estimativa de contribuição de IA Generativa a enconomia global, segundo McKinsey
+- Entre 2,6 trilhoes e US$4,4 trilhoes
+- Todos os setores estão sendo impactados positivamente
+- Industria
+- Saude
+- Financeiro
+- Alta Tecnologia
+- Em media, o rendimento humano ao ultilizar a inteligencia generativa, e 66% maior segundo o Nielsen Normam 
+
+Quais são os principais tipos de sistemas de IA?
+- Whitepaper do MIT defende que a definição e seus tipos de IA são importantes, embora de complexidade dinamica, principalmente quando se trata de identificar quais sistemas deveriam estar sujeitos a regimes regulatorios e de responsabilidade
+- Diferenciar algoritimos, inteligencia artificial e inteligencia artifial generativa
+
+Algoritimos: Ritual codificado, um conjunto de instruções para se atingir determinados objetivos, inclusive os mais simples.
+
+Desições automatizadas: Englobam quaisquer decisões tomadas por um computador sem intervenção humana
+
+Inteligencia artificial: Sistemas que podem realizar tarefas que normalmente requerem inteligencia humana, como aprendizagem de maquina, como visão computacional e processamento de linguagem natural
+    - Capacidade de obter saidads por meio de dados de entrada
+    - Capacidade de operar de diferentes graus de autonomia
+    - Capacidade de adaptação e autoaprendizagem
+
+Inteligencia artifial especifica: Formada e desenvolvida para um proposito unico
+IA de proposito geral: Uma IA para diversas finalidade
+IA super inteligente: Mais inteligente que os humanos, singularidade
+
+Encerramento do Video
+
+IA - Linhas do tempo
+    - Analise cronologica da evolução da inteligencia artificial
+    - Alan Truing (1950)
+    - Ate comtemporêneos
+
+Aula 02 - Linha do tempo da Inteligencia Artificial
+
+Apresentador: Rony Vainzof
+
+- Decada de 1950 (Teste de Alan Turing)
