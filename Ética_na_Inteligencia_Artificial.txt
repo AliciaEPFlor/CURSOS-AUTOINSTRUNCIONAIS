@@ -1,5 +1,7 @@
 Inicio dos estudos do primeiro curso autoinstrucional do SENAI: Ética na Inteligencia Artificial
 
+21/03/2026
+
 "Olá! Boas-vindas ao curso Ética na IA! 🌟
 
 Prepare-se para mergulhar em uma jornada de 4 horas que irá transformar sua perspectiva sobre a Inteligência Artificial.
@@ -63,4 +65,34 @@ Aula 02 - Linha do tempo da Inteligencia Artificial
 
 Apresentador: Rony Vainzof
 
+22/03/2026
+
 - Decada de 1950 (Teste de Alan Turing)
+- Pai da programação
+- Jogo da imitação
+- Exploração de IA em jogos de xadrez (1960-1970)
+- Acenção dos sistemas especialistas (1980)
+- Decisões em dominios especificos
+- Sitemas de IA mais adaptativos e capazes (1990)
+- Big data impulsiona aprendizado profundo (2000)
+- Ultimos anos tem o aumento da capacidade dos computadores, incluindo a computação quantica
+- Organização de dados
+- Ciencia cognitiva aos computadores e algoritimos
+- Esforços colaborativos e cineticos, compartilhamento de codigos e algoritimos abertos
+- Tudo isso nos leva a IA generativa
+
+Importancia da ética na IA 
+    - Significado da ética e sua importância no contexto da IA
+    - Transparencia e explicabilidade, privacidade e proteção de dados e os principios fundamentais que guiam o desenvolvimento da inteligencia artificial
+    - Ética molda decisões em todo o processo, desde a concepção até a implementação da impactados
+
+Aula 03 - Importancia da ética na inteligencia artificial
+
+Apresentador: Rony Vainzof
+
+- Etica referece a principios que orientam o comportamento humano em relação ao que e certo ou errado
+- No contexto da tecnologia e na inteligencia artificial:
+    - A ética e fundamental para garantir que o desenvolvimento e o uso dessas tecnologias ocorram de maneira responsavel, respeitando valores e direitos humanos
+    - Prevenção de vazamento de dados
+    - Prevenção de desinformações (deepfakes)
+    - Prevenção de violação de propriedade intelectual 
