@@ -182,5 +182,111 @@ Regulamentação etica de IA
 - Criar mecanismos de monitoramento e fiscalização
 - Investimento em conscientização sobre a etica na IA
 
+31/03
+
+Pilares da IA responsavel - Privacidade, segurança da infomração e direitos autorais
+- Preocupações sobre a coleta, proteção, utilização e licitude dos dados para treinar a inteligencia artificial no conteudo de saida.
+
+Aula 6: Pilares da IA responsavel: privacidade, segurança da infomração e direitos autorais
+
+Apresentador: Rony Vainzof
+
+- Utilização de dados
+- Compartilhamento desses dados e proteção
+- Identificação de individuos sem o seu consentimento
+- Transparencia do uso de dados pessoais
+- Quantidade e complexidade dos dados
+- Risco de violação de dados
+- Acesso não autorizado
+- Roubo de informações
+- Exposição acidental de dados pessoais
+- Informações com base em padrões de Dados
+- Tratamento automatizado de dados pessoais
+- Vulnerabilidade de sistemas
+- Regulamentação de IA
+- Lei geral de Proteção de Dados
+- LGPD (NÃO DISCRIMINAÇÃO)
+- Transparencia
+- Finalidade dos dados
+- Legitimo interesse de se treinar base de dados
+- Solicitar na determinada decisão
+- Propriedade intelectual
+- Curadoria do conteudo
+- Conteudos por direitos autorais (Treinamento)
+- Far trainig (uso jsuto do treinamento da IA)
+- Não usa o conteudo propriamente dito 
+- Direito de exploração de contedudo de saida
+- Dever de transparencia
+- Direitos de personalidade
+- Uso autorizados das Deepfakes
+- Mitigação do uso indevido das deepfakes
+- Perceptivel para nos seres humanos
+- Marcas d'agua
+Melhores práticas de implementação de sistemas de IA seguros
+- Estabelecimento de governanaça
+- Principios, politica, ferramentas, processos e cultura para desenvolver sistemas de IA
+- Avaliar, implantar ou utlilizar sistemas de IA de forma segura, confiavel, licita, ética e para o bem dos individuos e da sociedade
+- Maepamento das IA, modelos de ia
+- Avaliação de Riscos
+- Finalidade e medidas de segurança
+
+Encerramento do Video
+
+
+Pilares da IA responsavel - transparencia, explicabilidade e prestação de contas
+- Quanto mais complexo o algoritmo, tambem se tornar mais complexa sua explicabilidade
+- Complexidade algorítimica e a opacidade dos modelos podem impactar áreas cruciais como saúde, justiça e finanças
+
+Aula 05 - Pilares da IA responsavel; transparencia, explicabilidade e prestação de contas
+
+Apresentador: Rony Vainsof
+
+- Transparecia (desafio)
+- Explicabilidade (desafio)
+- Auditoria (revisão independete, garantia da imparcialidade)
+- Beneficios da IA
+- Controle sera explicado dentro do algoritimo em si
+- Interpretação dos resultados de saida
+- Interpretar
+- Custos e recursos
+- Recusos e custos: tempo, dinheiro e expertice tecnica
+- Manutenção da competitividade
+- Revelar propriedade intelectual
+
+Implicações eticas e sociais na falta de transparecia na explicação e IA, principalmente a saude, finanças e justiça
+- Equidade e justiça
+- Decisões discriminatorias ou injustas
+- Responsabilização
+- Identificar o desenvolverdos, tradutor, indentificador, usuario da IA (DIFICULDADE DE IDENTIFICAÇÃO)
+- Segurança e confiança
+- Principalmente em areas criticas, como saude ou justiça ou gestão financeira
+- Vies e injustiça
+- A opacidade dos algoritimos de ia pode alterar vieis e preconceitos imbutidos nos dados e nos modelos de ia
+- Responasbilidade do desenvolvedor
+- Responsabilidade do operador da ia
+- Responsabilidade conjunta
+- Responsabilidade do usuarios
+- Seguro de responsabilidade civil
+
+Establecendo sistemas de responsabilidade justos
+- Priorizar a transparencia e explicabilidade dos sitemas
+- Incorporar supervisão humana em determinadas fases
+- Realizar auditorias independetes quando necessario
+- Estabelecer padrões de segurança e qualidade claros
+- Identificar o desenvolvedor, operador e usuario da ia
+
+Encerramento do Video
+
+Marco legal
+- Pode ser usada para diferentes propositos
+- Legislações aplicaveis
+- LGPD
+- Código de defesa do consumidos
+- Regulamentação da IA deve ser flexivel, adaptavel e menos prescritiva
+- Compreensão de negócios digitais e análise de impacto são essenciais antes de qualquer marco regulatório especifico para essa tecnologia no Brasil
+
+Aula 07 - Marvol Legal da inteligencia artificial
+
+Apresentador: Rony Vainsof
 
 
